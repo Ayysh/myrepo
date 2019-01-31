@@ -1,6 +1,4 @@
-package com.home.org.Object.counter;
-
-import com.home.org.Object.counter.ObjectCounter;
+package com.home.org.objectcounter;
 
 public class Main {
 
