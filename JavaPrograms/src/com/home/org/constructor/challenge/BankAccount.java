@@ -1,8 +1,6 @@
 package com.home.org.constructor.challenge;
 
 
-import com.home.org.ObjectCounter;
-
 public class BankAccount {
 
     private int accountnumber;

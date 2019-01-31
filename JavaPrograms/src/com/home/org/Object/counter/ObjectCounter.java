@@ -1,4 +1,5 @@
-package com.home.org;
+package com.home.org.Object.counter;
+
 
 public class ObjectCounter {
 
