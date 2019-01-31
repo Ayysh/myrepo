@@ -1,11 +1,12 @@
 package com.home.org.inheritance.challenge;
 
+/**
+ * This class Vehicle defines a vehicle with some properties like speed, enginepower and enginetype.
+ */
 public class Vehicle {
     private int speed;
     private int enginepower;
     private String enginetype;
-
-    //  public Vehicle(){};
 
     public Vehicle(int speed, int enginepower, String enginetype) {
 

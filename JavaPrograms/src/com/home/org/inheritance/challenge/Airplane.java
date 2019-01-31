@@ -1,5 +1,4 @@
 package com.home.org.inheritance.challenge;
-//import com.home.org.inheritance.challenge.Vehicle;
 
 public class Airplane extends Vehicle {
     public Airplane(int speed, int enginepower, String enginetype) {
